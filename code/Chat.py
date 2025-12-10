@@ -39,6 +39,7 @@ provider_list = ["meta",
                  "deepseek-ai"]
 
 meta_model_list = ["llama-3.1-8b-instruct",
+                   "llama-3.1-8b-instruct-RTX",
                    "llama-3.1-70b-instruct",
                    "llama-3.1-405b-instruct",
                    "llama-3.3-70b-instruct",
